@@ -3,9 +3,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
-    "request": "^2.81.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.0",
+    "request": "^2.84.0",
     "yelp-api-v3": "^1.5.0"
   }
 }
